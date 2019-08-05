@@ -8,9 +8,9 @@ This script does the following:
 3. Saves it into a jar file
 4. Copies the jar file into the lib folder of the stopped tomcat app
 5. For random times (1-5):
-   a. Starts the tomcat webapp
-   b. Runs a jmeter scenario
-   c. Stops the tomcat webapp
+      a. Starts the tomcat webapp
+      b. Runs a jmeter scenario
+      c. Stops the tomcat webapp
 6. Starts the tomcat webapp again
 
 -----
