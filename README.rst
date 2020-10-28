@@ -49,5 +49,3 @@ Authors
 License
 -------
 `MIT License <https://github.com/yevgenykuz/checkmarx-jmeter-runner/blob/master/LICENSE>`_
-
------
